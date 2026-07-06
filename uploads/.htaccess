@@ -1,0 +1,9 @@
+# uploads/.htaccess
+# Permite acesso público apenas a imagens
+Options -Indexes
+<FilesMatch "\.(jpg|jpeg|png|webp|gif)$">
+    Allow from all
+</FilesMatch>
+<FilesMatch "\.(php|php3|php4|php5|phtml|pl|py|rb|cgi)$">
+    Deny from all
+</FilesMatch>
