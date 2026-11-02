@@ -1,5 +1,7 @@
 # 🎯 VisIQ — Prospecção Inteligente no LinkedIn
 
+> **Projeto de portefólio, descontinuado.** O VisIQ foi um projeto pessoal de estudo, criado para praticar extensões Chrome, filas de tarefas, autenticação JWT e subscrições com Stripe. Não está em desenvolvimento ativo; o código fica público apenas como demonstração técnica.
+
 Micro-SaaS de prospecção B2B para LinkedIn: extrai e organiza leads automaticamente, gere campanhas de aquecimento e follow-up, e executa a sequência de contato através de uma extensão de navegador controlada por fila — com assinatura recorrente via Stripe.
 
 <p align="center">
@@ -8,7 +10,7 @@ Micro-SaaS de prospecção B2B para LinkedIn: extrai e organiza leads automatica
   <img src="docs/screenshots/adicionar-lead.png" width="260" alt="Adicionar lead" />
 </p>
 
-🔗 **Em produção:** [visiq.pro](https://visiq.pro)
+🔗 **Site:** [visiq.pro](https://visiq.pro)
 
 ---
 
